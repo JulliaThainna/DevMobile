@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TerceiroApp",
+    "slug": "TerceiroApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
