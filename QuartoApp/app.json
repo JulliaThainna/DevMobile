@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "QuartoApp",
+    "slug": "QuartoApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
