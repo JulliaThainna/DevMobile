@@ -1,6 +1,6 @@
 import { SafeAreaView } from "react-native";
 import {NavigationContainer} from "@react-navigation/native";
-import Stack from "./Stack";
+import Stack from "./stack";
 import TelaA from "../views/TelaA";
 
 export default props => (
